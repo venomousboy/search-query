@@ -1,0 +1,16 @@
+{
+  "name": "venomosuboy/search-query",
+  "description": "DTO classes for search queries",
+  "type": "library",
+  "license": "proprietary",
+  "minimum-stability": "stable",
+  "require": {
+    "php": "^7.4",
+    "litgroup/enumerable": "^0.7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Venomousboy\\SearchQuery\\": "src/"
+    }
+  }
+}
